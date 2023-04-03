@@ -5,7 +5,7 @@
 Official PyTorch implementation of the paper _Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas_ by [Aleksis Pirinen](https://www.ri.se/en/person/aleksis-pirinen), [Olof Mogren](http://mogren.one/) and Mårten Västerdal.
 
 ### Dataset
-The dataset used in the paper can be downloaded from [this link](https://www.dropbox.com/s/6i2shosy7ddnz09/dataset.zip?dl=0).
+The dataset used in the paper can be downloaded from [this link](https://www.dropbox.com/s/6i2shosy7ddnz09/dataset.zip?dl=0). Once downloaded, simply unzip the folder in the main folder, which should result in a folder `data-extended-smhi`.
 
 ### Code structure overview
 Model training is done using `training.py`. Results are sent to a log folder (see the variable `BASE_PATH_LOG`), and result plots can then be generated using the file `plot_result.py`.
