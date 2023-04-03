@@ -1,6 +1,6 @@
 # Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas
 
-![airloc-img](https://user-images.githubusercontent.com/32370520/188417494-6e1ee3c3-e221-4a4a-b067-f5de1c178e0c.png)
+![krycklan-overview](https://user-images.githubusercontent.com/32370520/229508169-f3d070d5-5005-47be-b3d4-4e9188eea97d.png)
 
 Official PyTorch implementation of the paper _Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas_ by [Aleksis Pirinen](https://www.ri.se/en/person/aleksis-pirinen), [Olof Mogren](http://mogren.one/) and Mårten Västerdal.
 
