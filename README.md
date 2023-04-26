@@ -16,4 +16,11 @@ _Prior to this, ensure you have the dataset and that the variable `BASE_PATH_DAT
 Model training (and validation on validation data) is performed using `training.py`. See the file `plot_results.py` if you are interested in tracking the progress and results throughout training. Models are saved during and upon completion of training, and are sent to the log folder.
 
 ### Citation
-TODO
+If you find this implementation and/or our [paper](https://arxiv.org/abs/2304.01658) interesting or helpful, please consider citing:
+
+    @article{pirinen2023fully,
+      title={Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas},
+      author={Pirinen, Aleksis and Mogren, Olof and V{\"a}sterdal, M{\aa}rten},
+      journal={arXiv preprint arXiv:2304.01658},
+      year={2023}
+    }
