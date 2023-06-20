@@ -2,7 +2,7 @@
 
 ![krycklan-overview](https://user-images.githubusercontent.com/32370520/229508169-f3d070d5-5005-47be-b3d4-4e9188eea97d.png)
 
-Official PyTorch implementation of the SAIS 2023 paper [_Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas_](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) by [Aleksis Pirinen](https://www.ri.se/en/person/aleksis-pirinen), [Olof Mogren](http://mogren.one/) and Mårten Västerdal.
+Official PyTorch implementation of the SAIS 2023 paper [_Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas_](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) by [Aleksis Pirinen](https://aleksispi.github.io), [Olof Mogren](http://mogren.one/) and Mårten Västerdal.
 
 [SAIS 2023 paper](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) | [arXiv](https://arxiv.org/abs/2304.01658) | [Video](https://youtu.be/dnE0AfiqoZo)
 
