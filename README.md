@@ -9,6 +9,8 @@ Official PyTorch implementation of the SAIS 2023 paper [_Fully Convolutional Net
 ### Dataset
 The dataset used in the paper can be downloaded from [this link](https://www.dropbox.com/s/6i2shosy7ddnz09/dataset.zip?dl=0). Once downloaded, simply unzip the folder in the main folder, which should result in a folder `data-extended-smhi`.
 
+**Note:** If you use the file `read_and_plot.py`, first also download the JPG file at [this link](https://www.dropbox.com/scl/fi/0cogtb6n5zb5x20nknf6t/matpunkter_siteid.JPG?rlkey=140syh0w1ybpwu4anhyv13xdc&st=r6yf5u0d&dl=0).
+
 ### Code structure overview
 Model training is done using `training.py`. Results are sent to a log folder (see the variable `BASE_PATH_LOG`), and result plots can then be generated using the file `plot_result.py`.
 
